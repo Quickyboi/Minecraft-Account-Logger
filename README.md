@@ -7,13 +7,27 @@ It is an **educational tool** for people to learn about Microsoft's account mana
 The use of this program for personal gain is strictly forbidden and was not what it was designed to do.
 
 # Downloading
-You can easily download the software off of this page by downloading the zip and extracting it or do:
+Windows:
 
+Install the zip or latest version and run it or
+```
 git clone https://github.com/Quickyboi/Minecraft-Account-Logger.git
-
 cd Minecraft-Account-Logger/Account-Logger-Main
+start Minecraft-Account-Logger.exe
+```
+Linux:
 
-run Minecraft-Account-Logger.exe
+Open a terminal and type:
+
+```
+git clone https://github.com/Quickyboi/Minecraft-Account-Logger.git
+cd Minecraft-Account-Logger/Account-Logger-Main
+chmod +x install.sh
+./install.sh
+```
+
+
+
 
 # Safety
 ![microsoft-defender-smartscreen-warning](https://github.com/Quickyboi/Minecraft-Account-Logger/assets/145617720/1329d1e0-3340-4934-9305-2a4821842974)
